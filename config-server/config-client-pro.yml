@@ -1,4 +1,4 @@
 spring:
   profiles:
     active: pro
-foo: pro version test
+foo: pro version est
